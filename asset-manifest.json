@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-summer-winter-app/static/css/main.0da99f66.chunk.css",
+    "main.js": "/react-summer-winter-app/static/js/main.fdc70869.chunk.js",
+    "main.js.map": "/react-summer-winter-app/static/js/main.fdc70869.chunk.js.map",
+    "runtime~main.js": "/react-summer-winter-app/static/js/runtime~main.ddb743dc.js",
+    "runtime~main.js.map": "/react-summer-winter-app/static/js/runtime~main.ddb743dc.js.map",
+    "static/js/2.2050718e.chunk.js": "/react-summer-winter-app/static/js/2.2050718e.chunk.js",
+    "static/js/2.2050718e.chunk.js.map": "/react-summer-winter-app/static/js/2.2050718e.chunk.js.map",
+    "index.html": "/react-summer-winter-app/index.html",
+    "precache-manifest.aefeb17f315bf96bde947263d3ba3bbf.js": "/react-summer-winter-app/precache-manifest.aefeb17f315bf96bde947263d3ba3bbf.js",
+    "service-worker.js": "/react-summer-winter-app/service-worker.js",
+    "static/css/main.0da99f66.chunk.css.map": "/react-summer-winter-app/static/css/main.0da99f66.chunk.css.map"
+  }
+}
